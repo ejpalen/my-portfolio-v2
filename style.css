@@ -411,6 +411,7 @@ footer img {
     padding: 5px;
     background: none;
     border: 1px solid;
+    border-radius: 0px;
   }
 
   form input:focus,
@@ -646,6 +647,7 @@ footer img {
 
   .skill img {
     width: 60px;
+    margin-bottom: 10px;
   }
 
   .project-title {
@@ -813,5 +815,17 @@ footer img {
     margin-top: 160px;
     text-align: end;
     margin-right: 30px;
+  }
+  .contact-text p {
+    width: 100%;
+  }
+
+  .about-me-header h1 {
+    margin-right: 40px;
+  }
+
+  #submit {
+    width: 100px;
+    padding: 15px 0;
   }
 }
