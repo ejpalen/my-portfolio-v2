@@ -156,6 +156,7 @@ footer img {
   background-color: #6d7975;
   width: fit-content;
   margin-top: 20px;
+  animation: 1s ease-in-out slideup;
 }
 
 .message a:hover {
