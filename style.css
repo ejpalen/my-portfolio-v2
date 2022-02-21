@@ -15,8 +15,9 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  overflow-x: hidden;
+main {
+  overflow: hidden;
+  width: 100%;
 }
 
 nav img {
