@@ -69,7 +69,7 @@ $(document).scroll(function () {
     $("#projects-nav").css("background-color", "#fff");
     $("#about-nav").css("background-color", "#fff");
     $("#skills-nav").css("background-color", "#fff");
-  } else if (scrollPos != top1) {
+  } else if (scrollPos < top1) {
     $("#about-nav").css("background-color", "#fff");
     $("#about-nav").css("color", "#000");
   }
