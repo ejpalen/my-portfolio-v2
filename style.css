@@ -192,6 +192,7 @@ footer img {
     display: flex;
     height: 100vh;
     align-items: center;
+    margin-bottom: 100px;
   }
 
   .hero-image {
@@ -229,7 +230,7 @@ footer img {
   }
 
   .about-me-wrapper {
-    margin-top: 150px;
+    margin-top: 200px;
   }
 
   .about-me-header {
@@ -624,6 +625,7 @@ footer img {
 
   .skills-header h1 {
     margin-right: 15px;
+    margin-left: 60px;
   }
 
   .skills {
